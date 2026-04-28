@@ -1,6 +1,6 @@
 # mykantin
 
-[LINK VIDEO DEMO]: https://drive.google.com/file/d/18pV9OgDNlhBJIpXXKmlbIPtMxG2W87IW/view?usp=sharing
+- [LINK VIDEO DEMO](https://drive.google.com/file/d/18pV9OgDNlhBJIpXXKmlbIPtMxG2W87IW/view?usp=sharing)
 
 ## Getting Started
 
